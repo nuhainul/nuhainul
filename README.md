@@ -73,7 +73,7 @@ HTML5 / CSS3 / <!-- SASS / Bootstrap --> Tailwindcss/ DaisyUI <br>
 ## ☕ Connect with me!
 [Github](https://github.com/nuhainul)  [Linkedin](https://www.linkedin.com/in/nuhu-ainul-islam/)  [Facebook](https://www.facebook.com/headmasterda) <!-- [Instagram](https://www.instagram.com/#/)  [Twitter](https://twitter.com/nuhainul) -->  
 
-
-
 ## 📧 For Business Inquiries 
 ✅  9663525@gmail.com
+
+💡 🔧 🌟 🔭 💬 📫 ⚡ 
