@@ -44,9 +44,9 @@ HTML5 / CSS3 / <!-- SASS / Bootstrap --> Tailwindcss/ DaisyUI <br>
 
 <h1 align="left">GitHub Stats:</h1>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasin-arafat-389&theme=bear)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nuhainul&theme=bear)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasin-arafat-389&theme=bear)     ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasin-arafat-389&theme=bear)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nuhainul&theme=bear)     ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasin-arafat-389&theme=bear)
 
 ## ☕ Connect with me!
 [Github](https://github.com/nuhainul)  [Linkedin](https://www.linkedin.com/in/nuhu-ainul-islam/)  [Facebook](https://www.facebook.com/headmasterda) <!-- [Instagram](https://www.instagram.com/#/)  [Twitter](https://twitter.com/nuhainul) -->  
