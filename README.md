@@ -35,12 +35,28 @@ HTML5 / CSS3 / <!-- SASS / Bootstrap --> Tailwindcss/ DaisyUI <br>
 
 <h1 align="left" >Languages and Tools:</h1>
 
-
 [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,redux,tailwind,bootstrap,postman,firebase,vuejs,html,css)](https://skillicons.dev)
 
 <br />
 
+<h2 align="left">🤷‍♂️ Latest Project :</h2>
 
+  <h3> 1 : Project 1 name</h3>
+  
+  <h4><a href="#">Live Link</h4>
+    
+  <h5>Features : </h5>
+  
+  -  
+  -  
+  -  
+  -  
+
+ <h5>Technology:</h5>
+ 
+ [![My Skills](https://skillicons.dev/icons?i=js,materialui,tailwind,react,express,firebase,mongodb,html,css)](https://skillicons.dev)
+
+   <h3> 2 : Project 2 name</h3>
 
 <h1 align="left">GitHub Stats:</h1>
 
