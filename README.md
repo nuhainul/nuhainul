@@ -36,7 +36,7 @@ HTML5 / CSS3 / <!-- SASS / Bootstrap --> Tailwindcss/ DaisyUI <br>
 <h1 align="left" >Languages and Tools:</h1>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,redux,tailwind,bootstrap,postman,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,redux,tailwind,bootstrap,postman,firebase,vuejs,html5,css3)](https://skillicons.dev)
 
 <br />
 
