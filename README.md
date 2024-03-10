@@ -62,7 +62,7 @@ HTML5 / CSS3 / <!-- SASS / Bootstrap --> Tailwindcss/ DaisyUI <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nuhainul&theme=bear)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nuhainul&theme=bear)     ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasin-arafat-389&theme=bear)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nuhainul&theme=bear)     ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nuhainul&theme=bear)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nuhainul&background=45%2C7595EB%2C7AEBDE)](https://git.io/streak-stats)
 [![Top Trends](https://api.githubtrends.io/user/svg/nuhainul/repos?time_range=one_year&group=other&loc_metric=changed&theme=synthwaves)
