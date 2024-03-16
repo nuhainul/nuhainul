@@ -69,8 +69,9 @@ HTML5 / CSS3 / <!-- SASS / Bootstrap --> Tailwindcss/ DaisyUI <br>
 <!-- # sth
 ![Top Trends](https://api.githubtrends.io/user/svg/nuhainul/repos?time_range=one_year&group=other&loc_metric=changed&theme=bear) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuhainul)](https://github.com/nuhainul/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nuhainul&show_icons=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuhainul)](https://github.com/nuhainul/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nuhainul&show_icons=true)  
 
 ## ☕ Connect with me!
 [Github](https://github.com/nuhainul)  [Linkedin](https://www.linkedin.com/in/nuhu-ainul-islam/)  [Facebook](https://www.facebook.com/headmasterda) <!-- [Instagram](https://www.instagram.com/#/)  [Twitter](https://twitter.com/nuhainul) -->  
