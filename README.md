@@ -67,7 +67,7 @@ HTML5 / CSS3 / <!-- SASS / Bootstrap --> Tailwindcss/ DaisyUI <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nuhainul&background=45%2C7595EB%2C7AEBDE)](https://git.io/streak-stats)
 
 # sth
-[![Top Trends](https://api.githubtrends.io/user/svg/nuhainul/repos?time_range=one_year&group=other&loc_metric=changed&theme=bear)
+![Top Trends](https://api.githubtrends.io/user/svg/nuhainul/repos?time_range=one_year&group=other&loc_metric=changed&theme=bear)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuhainul)](https://github.com/nuhainul/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=nuhainul&show_icons=true)  
